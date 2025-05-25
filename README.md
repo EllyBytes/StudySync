@@ -1,1 +1,1 @@
-# StudySync
+# StudySync yes
