@@ -257,3 +257,5 @@ The application interacts with the following RESTful API endpoints:
           "message": "Schedules generated successfully"
         }
         
+--------------------------
+[video link demo :::](https://drive.google.com/file/d/1x_8sWqNAXLyXTasmbyBytq-qRtq6DzxG/view?usp=sharing)
