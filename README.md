@@ -1,4 +1,4 @@
-
+[video link demo :::](https://drive.google.com/file/d/1x_8sWqNAXLyXTasmbyBytq-qRtq6DzxG/view?usp=sharing)
 # Personalized Study Planner
 
 The Personalized Study Planner is a **full-stack web application** designed to help users efficiently manage their study schedules. It allows users to add subjects, track progress, and generate optimized study schedules within a specified date range, all while accommodating personal unavailability. The application promotes effective study habits by suggesting practical session lengths (30 minutes to 2 hours) with built-in 15-minute breaks.
@@ -258,4 +258,4 @@ The application interacts with the following RESTful API endpoints:
         }
         
 --------------------------
-[video link demo :::](https://drive.google.com/file/d/1x_8sWqNAXLyXTasmbyBytq-qRtq6DzxG/view?usp=sharing)
+
